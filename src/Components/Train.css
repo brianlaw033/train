@@ -1,0 +1,8 @@
+.train {
+  display: flex;
+  margin: 5px;
+}
+
+.train .service-type {
+  width: 150px;
+}
